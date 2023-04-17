@@ -17,7 +17,7 @@ body {
   font-size: 16px;
   font-weight: 400;
   background: #fafafa;
-  color: gray; }
+  color: lavender; }
   body.menu-show {
     overflow: hidden;
     position: fixed;
@@ -34,7 +34,7 @@ body {
     overflow-y: hidden; }
 
 a {
-  color: #CA82F8;
+  color: #f8f8ff;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s; }
