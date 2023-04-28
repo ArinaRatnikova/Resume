@@ -17,7 +17,7 @@ body {
   font-size: 16px;
   font-weight: 400;
   background: #fafafa;
-  color: lavender; }
+  color: blueviolet; }
   body.menu-show {
     overflow: hidden;
     position: fixed;
@@ -34,13 +34,13 @@ body {
     overflow-y: hidden; }
 
 a {
-  color: #f8f8ff;
+  color: #4b0082;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s; }
   a:hover {
     text-decoration: underline;
-    color: #CA82F8; }
+    color: #d8bfd8; }
   a:focus, a:active {
     outline: none; }
 
